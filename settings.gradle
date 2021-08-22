@@ -1,0 +1,2 @@
+rootProject.name = "mad_sound"
+include ':app'
